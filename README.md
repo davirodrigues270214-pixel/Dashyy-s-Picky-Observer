@@ -1,0 +1,2 @@
+# Dashyy-s-Picky-Observer
+A Minecraft mod for 1.21.11 Neoforge, where it adds a Picky Observer, an observer where it can detect specific blocks you choose, inside its GUI you can click a block inside its "block" book to place it in its 3x3 grid, the blocks in that grid are the blocks that it can read, you can "lock" it by sending a redstone signal to its side or top.

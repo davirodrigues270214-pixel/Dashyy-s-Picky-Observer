@@ -1,0 +1,10 @@
+{
+  "block.pickyobserver.picky_observer": "Picky Observer",
+  "container.pickyobserver.picky_observer": "Picky Observer",
+  "gui.pickyobserver.any": "Any",
+  "gui.pickyobserver.exact": "Exact",
+  "gui.pickyobserver.tooltip": "Any: reacts to the block in any state.\nExact: only reacts to the block's default state.\nEmpty grid: reacts to everything, like a normal Observer.",
+  "message.pickyobserver.locked": "The Picky Observer is locked",
+  "gui.pickyobserver.search": "Search...",
+  "gui.pickyobserver.tab.all": "All Blocks"
+}

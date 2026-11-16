@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_observer": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": { "items": [ { "items": "minecraft:observer" } ] }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": { "recipe": "pickyobserver:picky_observer" }
+    }
+  },
+  "requirements": [ [ "has_observer", "has_the_recipe" ] ],
+  "rewards": { "recipes": [ "pickyobserver:picky_observer" ] }
+}

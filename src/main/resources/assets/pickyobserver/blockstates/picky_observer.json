@@ -1,0 +1,96 @@
+{
+  "variants": {
+    "facing=down,locked=false,powered=false": {
+      "model": "pickyobserver:block/picky_observer",
+      "x": 90
+    },
+    "facing=down,locked=true,powered=false": {
+      "model": "pickyobserver:block/picky_observer_locked",
+      "x": 90
+    },
+    "facing=down,locked=false,powered=true": {
+      "model": "pickyobserver:block/picky_observer_on",
+      "x": 90
+    },
+    "facing=down,locked=true,powered=true": {
+      "model": "pickyobserver:block/picky_observer_on_locked",
+      "x": 90
+    },
+    "facing=east,locked=false,powered=false": {
+      "model": "pickyobserver:block/picky_observer",
+      "y": 90
+    },
+    "facing=east,locked=true,powered=false": {
+      "model": "pickyobserver:block/picky_observer_locked",
+      "y": 90
+    },
+    "facing=east,locked=false,powered=true": {
+      "model": "pickyobserver:block/picky_observer_on",
+      "y": 90
+    },
+    "facing=east,locked=true,powered=true": {
+      "model": "pickyobserver:block/picky_observer_on_locked",
+      "y": 90
+    },
+    "facing=north,locked=false,powered=false": {
+      "model": "pickyobserver:block/picky_observer"
+    },
+    "facing=north,locked=true,powered=false": {
+      "model": "pickyobserver:block/picky_observer_locked"
+    },
+    "facing=north,locked=false,powered=true": {
+      "model": "pickyobserver:block/picky_observer_on"
+    },
+    "facing=north,locked=true,powered=true": {
+      "model": "pickyobserver:block/picky_observer_on_locked"
+    },
+    "facing=south,locked=false,powered=false": {
+      "model": "pickyobserver:block/picky_observer",
+      "y": 180
+    },
+    "facing=south,locked=true,powered=false": {
+      "model": "pickyobserver:block/picky_observer_locked",
+      "y": 180
+    },
+    "facing=south,locked=false,powered=true": {
+      "model": "pickyobserver:block/picky_observer_on",
+      "y": 180
+    },
+    "facing=south,locked=true,powered=true": {
+      "model": "pickyobserver:block/picky_observer_on_locked",
+      "y": 180
+    },
+    "facing=up,locked=false,powered=false": {
+      "model": "pickyobserver:block/picky_observer",
+      "x": 270
+    },
+    "facing=up,locked=true,powered=false": {
+      "model": "pickyobserver:block/picky_observer_locked",
+      "x": 270
+    },
+    "facing=up,locked=false,powered=true": {
+      "model": "pickyobserver:block/picky_observer_on",
+      "x": 270
+    },
+    "facing=up,locked=true,powered=true": {
+      "model": "pickyobserver:block/picky_observer_on_locked",
+      "x": 270
+    },
+    "facing=west,locked=false,powered=false": {
+      "model": "pickyobserver:block/picky_observer",
+      "y": 270
+    },
+    "facing=west,locked=true,powered=false": {
+      "model": "pickyobserver:block/picky_observer_locked",
+      "y": 270
+    },
+    "facing=west,locked=false,powered=true": {
+      "model": "pickyobserver:block/picky_observer_on",
+      "y": 270
+    },
+    "facing=west,locked=true,powered=true": {
+      "model": "pickyobserver:block/picky_observer_on_locked",
+      "y": 270
+    }
+  }
+}

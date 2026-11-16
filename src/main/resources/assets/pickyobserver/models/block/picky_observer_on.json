@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "#side",
+    "down": "#top",
+    "up": "#top",
+    "north": "#front",
+    "east": "#side",
+    "south": "#back",
+    "west": "#side",
+    "top": "pickyobserver:block/picky_observer_top",
+    "front": "pickyobserver:block/picky_observer_front",
+    "side": "pickyobserver:block/picky_observer_side",
+    "back": "pickyobserver:block/picky_observer_back_on"
+  }
+}

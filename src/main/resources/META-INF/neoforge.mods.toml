@@ -1,0 +1,25 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "pickyobserver"
+version = "1.2.1"
+displayName = "Picky Observer"
+description = '''
+The Observer's picky twin: you choose which blocks it is allowed to see.
+'''
+
+[[dependencies.pickyobserver]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.pickyobserver]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1]"
+ordering = "NONE"
+side = "BOTH"

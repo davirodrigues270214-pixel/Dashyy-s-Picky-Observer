@@ -2,7 +2,7 @@
 # Dashyy-s-Picky-Observer
 A Minecraft mod for 1.21.11 Neoforge, where it adds a Picky Observer, an observer where it can detect specific blocks you choose, inside its GUI you can click a block inside its "block" book to place it in its 3x3 grid, the blocks in that grid are the blocks that it can read, you can "lock" it by sending a redstone signal to its side or top, this mod also adds a lockable item frame, where if you send a redstone signal to its back similar to a picky observer) you can lock it, making it impossible to change positon or block inside without removing the signal.
 
-Textures, assembling JAVA 21 and idea by: misterdash44 (me)
-Code: Claude
-The cool custom title: https://mctitlegenerator.com/app/
+Textures, assembling JAVA 21 and idea by: misterdash44 (me) //
+Code: Claude // 
+The cool custom title: https://mctitlegenerator.com/app/ // 
 claude contributer is pendent, thank you for your choice :) 

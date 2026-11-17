@@ -5,4 +5,4 @@ A Minecraft mod for 1.21.11 Neoforge, where it adds a Picky Observer, an observe
 Textures, assembling JAVA 21 and idea by: misterdash44 (me) //
 Code: Claude // 
 The cool custom title: https://mctitlegenerator.com/app/ // 
-claude contributer is pendent, thank you for your choice :) 
+Co-authored-by Claude Anthropic, thank you for your choice :) 
